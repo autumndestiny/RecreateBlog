@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato', sans-serif;
+    border: 5px solid #BDC3C7;
+    padding: 2%;
+    border-radius: 10px; 
+}
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #3D3D3D;
+}
+.one {
+    text-align: right;
+    color: #3498DB;
+    text-transform: uppercase;
+}
+.two {
+    border-bottom: 5px solid #BDC3C7;
+    text-align: right;
+}
+.three {
+    border-bottom:5px solid #BDC3C7;
+    text-align: right;
+}
+.four {
+    text-align: right;
+}
