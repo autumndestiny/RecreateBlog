@@ -1,8 +1,9 @@
 body {
     font-family: 'Lato', sans-serif;
-    border: 5px solid #BDC3C7;
+    border: 20px solid #BDC3C7;
     padding: 2%;
-    border-radius: 10px; 
+    border-radius: 20px; 
+    width: 80vw;
 }
 h2 {
     letter-spacing: 3.2px;
@@ -16,13 +17,20 @@ h2 {
     text-transform: uppercase;
 }
 .two {
-    border-bottom: 5px solid #BDC3C7;
     text-align: right;
 }
 .three {
-    border-bottom:5px solid #BDC3C7;
     text-align: right;
 }
 .four {
     text-align: right;
+}
+.five {
+    border-bottom: 20px solid #BDC3C7;
+    border-top: 20px solid #BDC3C7;
+    text-align: center;
+    padding: 3%;
+}
+h2:hover {
+    letter-spacing: 1vmax;
 }
